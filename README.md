@@ -52,4 +52,4 @@ The analysis highlights potential system-level issues and provides insights into
 
 
 ## 🔗 Project Link
-(Add your GitHub file link here)
+(https://github.com/nayancheruvumohammad4370/data-analyst-assessment/tree/main)
